@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Autodata-frontend-9020",
+      "script": "serve",
+      "interpreter": "none",
+      "args": "-p 9020 -T"
+    }
+  ]
+}
